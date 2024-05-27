@@ -42,7 +42,7 @@ const Contact = () => {
 						<div className="title contact-title">
 							Let's Get in Touch: Ways to Connect with Me
 						</div>
-
+						<div class="visme_d" data-title="Untitled Project1" data-url="w4679r4o-untitled-project1" data-domain="forms" data-full-page="false" data-min-height="500px" data-form-id="70726"></div><script src="https://static-bundles.visme.co/forms/vismeforms-embed.js"></script>
 						<div className="subtitle contact-subtitle">
 							Thank you for your interest in getting in touch with
 							me. I welcome your feedback, questions, and
